@@ -1,5 +1,5 @@
-# Module 1 Challenge
-## Live Page: https://modjeska.github.io/modjeska.github.io-module-1-challenge/
+# Module 1 Challenge by Dante Stargiotti
+## Live Page: https://modjeska.github.io/modjeska.github.io-horiseon-branding/
    - Changes since previous version include:
      - CSS Elements have been consolidated and organized for ease during future use.
      - Images now have added alternate IDs in case of failure to load.
